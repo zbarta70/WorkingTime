@@ -1,0 +1,39 @@
+JobID;JobName;DepartmentID;WorkScheduleID
+;Marketing menedzser;1;1
+;Értékesítési aszisztens;1;2
+;Recepciós;2;2
+;HR generalista;2;2
+;Bérszámfejtõ;2;2
+;TB ügyintézõ;2;2
+;Számítógépes rendszerelemzõ;3;2
+;Informatikai menedzser;3;1
+;Számítógépes hardver mérnök;3;2
+;Számítógépes rendszergazda;3;2
+;Logisztikai vezetõ;4;1
+;Beszerzõ;4;2
+;Logisztikus;4;2
+;Gyártástervezõ;4;2
+;Titkárnõ;5;2
+;Ügyvezetõ igazgató;5;1
+;Gépészmérnök;6;2
+;Építészmérnök;6;2
+;Villamosmérnök;6;2
+;Minõségbiztosítási ellenõr;7;3
+;Minõségbiztosítási csoportvezetõ;7;2
+;Idegenáru ellenõr;7;3
+;Költségbecslõ;8;2
+;Pénzügyi tanácsadó;8;2
+;Könyvelõ;8;2
+;Költségvetési elemzõ;8;2
+;Gazdasági igazgató;8;1
+;Projektvezetõ;9;2
+;Projekt koordinátor;9;2
+;Projekt aszisztens;9;2
+;Raktáros;10;3
+;Raktári aszisztens;10;3
+;Raktárvezetõ;10;2
+;Operátor;11;3
+;Termelési mûszakvezetõ;11;3
+;Termelés vezetõ;11;1
+;Karbantartó;12;3
+;Karbantartás vezetõ;12;2

@@ -1,2 +1,2 @@
 # WorkingTime
-Egy munkaidő nyilvántartó szoftvert támogató WorkingTime MSSQL adatbázis
+Egy fiktív cég munkaidő nyilvántartó szoftverét támogató adatbázis (WorkingTime) megtervezése és implementálása.
